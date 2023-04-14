@@ -1,0 +1,45 @@
+.image{
+    width:50%;
+    height: 45%;
+    margin-top: 0%;
+    margin-left: 5%;
+    position: absolute;
+}
+
+.image img{
+    position: absolute;
+    border-radius: 15% 15% 15% 15%;
+    width:80%;
+    height: 90%;
+    left: 3%;
+}
+
+.juice{
+    width:50%;
+    height: 45%;
+    margin-top: 0%;
+    margin-left: 55%;
+}
+
+.image1{
+    width:50%;
+    height: 45%;
+    margin-top: 0%;
+    margin-left: 50%;
+    position: absolute;
+}
+
+.image1 img{
+    position: absolute;
+    border-radius: 15% 15% 15% 15%;
+    width:80%;
+    height: 90%;
+    left: 3%;
+}
+
+.burger{
+    width:50%;
+    height: 45%;
+    margin-top: 0%;
+    margin-left: 7%;
+}
